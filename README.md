@@ -5,7 +5,8 @@ A small program in python to calculate the number of unrooted and rooted trees w
 The program uses the modules sys, math and the third-party module wx-python 4.0 (Phoenix) [WxPython](https://www.wxpython.org/ "WxPython")
 
 The executable was made using pyinstaller on Windows 10 Home-edition 64-bit.
-In the project folder, open the cmd and use the command: **pyinstaller -F --icon=TreeNum.ico -w TreeNum.py**
+
+In the project folder open the cmd and use the command: **pyinstaller -F --icon=TreeNum.ico -w TreeNum.py**
 
 The icon was made in Adobe Illustrator
 
